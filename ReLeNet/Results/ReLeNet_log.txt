@@ -1,0 +1,349 @@
+SGD, lr: 0.01
+39 epochs
+
+[1,    50] loss: 2.051 time: 0m 10s
+train accuracy 36.4
+[1,   100] loss: 1.885 time: 0m 20s
+train accuracy 40.400000000000006
+[1,   150] loss: 1.771 time: 0m 30s
+train accuracy 48.0
+[1,   200] loss: 1.684 time: 0m 40s
+train accuracy 54.0
+Accuracy of the network on the 10000 test images: 51 %
+[2,    50] loss: 1.337 time: 0m 10s
+train accuracy 53.2
+[2,   100] loss: 1.309 time: 0m 20s
+train accuracy 54.400000000000006
+[2,   150] loss: 1.286 time: 0m 30s
+train accuracy 55.60000000000001
+[2,   200] loss: 1.264 time: 0m 40s
+train accuracy 59.599999999999994
+Accuracy of the network on the 10000 test images: 58 %
+[3,    50] loss: 1.142 time: 0m 10s
+train accuracy 58.4
+[3,   100] loss: 1.123 time: 0m 20s
+train accuracy 61.6
+[3,   150] loss: 1.116 time: 0m 30s
+train accuracy 59.199999999999996
+[3,   200] loss: 1.103 time: 0m 40s
+train accuracy 64.8
+Accuracy of the network on the 10000 test images: 62 %
+[4,    50] loss: 1.023 time: 0m 10s
+train accuracy 62.8
+[4,   100] loss: 1.019 time: 0m 20s
+train accuracy 64.8
+[4,   150] loss: 1.009 time: 0m 30s
+train accuracy 63.2
+[4,   200] loss: 0.998 time: 0m 40s
+train accuracy 64.4
+Accuracy of the network on the 10000 test images: 65 %
+[5,    50] loss: 0.931 time: 0m 10s
+train accuracy 70.8
+[5,   100] loss: 0.933 time: 0m 20s
+train accuracy 70.8
+[5,   150] loss: 0.925 time: 0m 30s
+train accuracy 70.39999999999999
+[5,   200] loss: 0.918 time: 0m 40s
+train accuracy 72.39999999999999
+Accuracy of the network on the 10000 test images: 67 %
+[6,    50] loss: 0.866 time: 0m 10s
+train accuracy 73.6
+[6,   100] loss: 0.864 time: 0m 20s
+train accuracy 68.8
+[6,   150] loss: 0.861 time: 0m 30s
+train accuracy 65.2
+[6,   200] loss: 0.855 time: 0m 40s
+train accuracy 72.8
+Accuracy of the network on the 10000 test images: 69 %
+[7,    50] loss: 0.824 time: 0m 10s
+train accuracy 67.2
+[7,   100] loss: 0.809 time: 0m 20s
+train accuracy 68.8
+[7,   150] loss: 0.807 time: 0m 30s
+train accuracy 69.6
+[7,   200] loss: 0.805 time: 0m 40s
+train accuracy 65.60000000000001
+Accuracy of the network on the 10000 test images: 71 %
+[8,    50] loss: 0.763 time: 0m 10s
+train accuracy 75.2
+[8,   100] loss: 0.758 time: 0m 20s
+train accuracy 72.0
+[8,   150] loss: 0.754 time: 0m 30s
+train accuracy 74.0
+[8,   200] loss: 0.755 time: 0m 40s
+train accuracy 71.6
+Accuracy of the network on the 10000 test images: 71 %
+[9,    50] loss: 0.707 time: 0m 10s
+train accuracy 76.4
+[9,   100] loss: 0.719 time: 0m 20s
+train accuracy 71.2
+[9,   150] loss: 0.715 time: 0m 30s
+train accuracy 78.4
+[9,   200] loss: 0.717 time: 0m 40s
+train accuracy 72.39999999999999
+Accuracy of the network on the 10000 test images: 72 %
+[10,    50] loss: 0.676 time: 0m 10s
+train accuracy 75.6
+[10,   100] loss: 0.672 time: 0m 20s
+train accuracy 73.2
+[10,   150] loss: 0.678 time: 0m 30s
+train accuracy 76.0
+[10,   200] loss: 0.678 time: 0m 40s
+train accuracy 72.39999999999999
+Accuracy of the network on the 10000 test images: 73 %
+[11,    50] loss: 0.641 time: 0m 10s
+train accuracy 80.80000000000001
+[11,   100] loss: 0.642 time: 0m 20s
+train accuracy 80.0
+[11,   150] loss: 0.642 time: 0m 30s
+train accuracy 74.0
+[11,   200] loss: 0.644 time: 0m 40s
+train accuracy 74.8
+Accuracy of the network on the 10000 test images: 72 %
+[12,    50] loss: 0.607 time: 0m 10s
+train accuracy 84.39999999999999
+[12,   100] loss: 0.609 time: 0m 20s
+train accuracy 81.6
+[12,   150] loss: 0.610 time: 0m 30s
+train accuracy 75.2
+[12,   200] loss: 0.611 time: 0m 40s
+train accuracy 74.8
+Accuracy of the network on the 10000 test images: 73 %
+[13,    50] loss: 0.560 time: 0m 10s
+train accuracy 79.2
+[13,   100] loss: 0.575 time: 0m 20s
+train accuracy 75.6
+[13,   150] loss: 0.572 time: 0m 30s
+train accuracy 79.2
+[13,   200] loss: 0.572 time: 0m 40s
+train accuracy 81.6
+Accuracy of the network on the 10000 test images: 74 %
+[14,    50] loss: 0.538 time: 0m 10s
+train accuracy 84.0
+[14,   100] loss: 0.542 time: 0m 20s
+train accuracy 81.2
+[14,   150] loss: 0.544 time: 0m 30s
+train accuracy 79.60000000000001
+[14,   200] loss: 0.544 time: 0m 40s
+train accuracy 80.4
+Accuracy of the network on the 10000 test images: 75 %
+[15,    50] loss: 0.513 time: 0m 10s
+train accuracy 84.0
+[15,   100] loss: 0.511 time: 0m 20s
+train accuracy 85.6
+[15,   150] loss: 0.508 time: 0m 30s
+train accuracy 84.39999999999999
+[15,   200] loss: 0.511 time: 0m 40s
+train accuracy 82.39999999999999
+Accuracy of the network on the 10000 test images: 75 %
+[16,    50] loss: 0.470 time: 0m 10s
+train accuracy 82.0
+[16,   100] loss: 0.477 time: 0m 20s
+train accuracy 82.39999999999999
+[16,   150] loss: 0.475 time: 0m 30s
+train accuracy 81.6
+[16,   200] loss: 0.478 time: 0m 40s
+train accuracy 83.6
+Accuracy of the network on the 10000 test images: 75 %
+[17,    50] loss: 0.447 time: 0m 10s
+train accuracy 83.6
+[17,   100] loss: 0.441 time: 0m 20s
+train accuracy 82.8
+[17,   150] loss: 0.447 time: 0m 30s
+train accuracy 83.6
+[17,   200] loss: 0.451 time: 0m 40s
+train accuracy 88.0
+Accuracy of the network on the 10000 test images: 75 %
+[18,    50] loss: 0.423 time: 0m 10s
+train accuracy 84.39999999999999
+[18,   100] loss: 0.420 time: 0m 20s
+train accuracy 85.6
+[18,   150] loss: 0.421 time: 0m 30s
+train accuracy 86.0
+[18,   200] loss: 0.420 time: 0m 40s
+train accuracy 85.2
+Accuracy of the network on the 10000 test images: 76 %
+[19,    50] loss: 0.389 time: 0m 10s
+train accuracy 85.2
+[19,   100] loss: 0.388 time: 0m 20s
+train accuracy 82.0
+[19,   150] loss: 0.387 time: 0m 30s
+train accuracy 88.0
+[19,   200] loss: 0.387 time: 0m 40s
+train accuracy 84.0
+Accuracy of the network on the 10000 test images: 76 %
+[20,    50] loss: 0.352 time: 0m 10s
+train accuracy 90.0
+[20,   100] loss: 0.358 time: 0m 20s
+train accuracy 88.0
+[20,   150] loss: 0.357 time: 0m 30s
+train accuracy 89.60000000000001
+[20,   200] loss: 0.359 time: 0m 40s
+train accuracy 91.2
+Accuracy of the network on the 10000 test images: 76 %
+[21,    50] loss: 0.334 time: 0m 10s
+train accuracy 89.2
+[21,   100] loss: 0.328 time: 0m 20s
+train accuracy 88.8
+[21,   150] loss: 0.328 time: 0m 30s
+train accuracy 90.4
+[21,   200] loss: 0.331 time: 0m 40s
+train accuracy 86.0
+Accuracy of the network on the 10000 test images: 76 %
+[22,    50] loss: 0.303 time: 0m 10s
+train accuracy 90.8
+[22,   100] loss: 0.304 time: 0m 20s
+train accuracy 90.8
+[22,   150] loss: 0.308 time: 0m 30s
+train accuracy 89.2
+[22,   200] loss: 0.308 time: 0m 40s
+train accuracy 90.8
+Accuracy of the network on the 10000 test images: 76 %
+[23,    50] loss: 0.277 time: 0m 10s
+train accuracy 88.8
+[23,   100] loss: 0.278 time: 0m 20s
+train accuracy 93.2
+[23,   150] loss: 0.279 time: 0m 30s
+train accuracy 92.80000000000001
+[23,   200] loss: 0.280 time: 0m 40s
+train accuracy 91.60000000000001
+Accuracy of the network on the 10000 test images: 76 %
+[24,    50] loss: 0.247 time: 0m 10s
+train accuracy 93.60000000000001
+[24,   100] loss: 0.251 time: 0m 20s
+train accuracy 96.0
+[24,   150] loss: 0.251 time: 0m 30s
+train accuracy 93.60000000000001
+[24,   200] loss: 0.255 time: 0m 40s
+train accuracy 91.60000000000001
+Accuracy of the network on the 10000 test images: 76 %
+[25,    50] loss: 0.225 time: 0m 10s
+train accuracy 95.6
+[25,   100] loss: 0.225 time: 0m 20s
+train accuracy 95.6
+[25,   150] loss: 0.229 time: 0m 30s
+train accuracy 89.60000000000001
+[25,   200] loss: 0.231 time: 0m 40s
+train accuracy 96.0
+Accuracy of the network on the 10000 test images: 76 %
+[26,    50] loss: 0.203 time: 0m 10s
+train accuracy 94.8
+[26,   100] loss: 0.209 time: 0m 20s
+train accuracy 95.19999999999999
+[26,   150] loss: 0.209 time: 0m 30s
+train accuracy 94.8
+[26,   200] loss: 0.210 time: 0m 40s
+train accuracy 96.39999999999999
+Accuracy of the network on the 10000 test images: 77 %
+[27,    50] loss: 0.190 time: 0m 10s
+train accuracy 95.6
+[27,   100] loss: 0.191 time: 0m 20s
+train accuracy 93.2
+[27,   150] loss: 0.192 time: 0m 30s
+train accuracy 94.8
+[27,   200] loss: 0.192 time: 0m 39s
+train accuracy 94.0
+Accuracy of the network on the 10000 test images: 76 %
+[28,    50] loss: 0.170 time: 0m 10s
+train accuracy 94.39999999999999
+[28,   100] loss: 0.169 time: 0m 20s
+train accuracy 93.2
+[28,   150] loss: 0.171 time: 0m 30s
+train accuracy 96.39999999999999
+[28,   200] loss: 0.173 time: 0m 40s
+train accuracy 95.19999999999999
+Accuracy of the network on the 10000 test images: 77 %
+[29,    50] loss: 0.153 time: 0m 10s
+train accuracy 91.2
+[29,   100] loss: 0.153 time: 0m 20s
+train accuracy 98.0
+[29,   150] loss: 0.153 time: 0m 30s
+train accuracy 98.4
+[29,   200] loss: 0.156 time: 0m 40s
+train accuracy 95.19999999999999
+Accuracy of the network on the 10000 test images: 77 %
+[30,    50] loss: 0.136 time: 0m 10s
+train accuracy 95.19999999999999
+[30,   100] loss: 0.138 time: 0m 20s
+train accuracy 95.19999999999999
+[30,   150] loss: 0.140 time: 0m 30s
+train accuracy 96.0
+[30,   200] loss: 0.142 time: 0m 40s
+train accuracy 94.8
+Accuracy of the network on the 10000 test images: 76 %
+[31,    50] loss: 0.126 time: 0m 10s
+train accuracy 96.0
+[31,   100] loss: 0.127 time: 0m 20s
+train accuracy 97.6
+[31,   150] loss: 0.127 time: 0m 30s
+train accuracy 96.0
+[31,   200] loss: 0.129 time: 0m 40s
+train accuracy 97.2
+Accuracy of the network on the 10000 test images: 77 %
+[32,    50] loss: 0.109 time: 0m 10s
+train accuracy 96.0
+[32,   100] loss: 0.113 time: 0m 20s
+train accuracy 97.6
+[32,   150] loss: 0.115 time: 0m 30s
+train accuracy 97.6
+[32,   200] loss: 0.117 time: 0m 40s
+train accuracy 95.19999999999999
+Accuracy of the network on the 10000 test images: 77 %
+[33,    50] loss: 0.104 time: 0m 10s
+train accuracy 97.2
+[33,   100] loss: 0.102 time: 0m 20s
+train accuracy 97.2
+[33,   150] loss: 0.103 time: 0m 30s
+train accuracy 96.8
+[33,   200] loss: 0.104 time: 0m 40s
+train accuracy 96.0
+Accuracy of the network on the 10000 test images: 77 %
+[34,    50] loss: 0.088 time: 0m 10s
+train accuracy 99.6
+[34,   100] loss: 0.091 time: 0m 20s
+train accuracy 96.8
+[34,   150] loss: 0.091 time: 0m 30s
+train accuracy 99.6
+[34,   200] loss: 0.093 time: 0m 40s
+train accuracy 98.4
+Accuracy of the network on the 10000 test images: 77 %
+[35,    50] loss: 0.081 time: 0m 10s
+train accuracy 96.0
+[35,   100] loss: 0.082 time: 0m 20s
+train accuracy 99.2
+[35,   150] loss: 0.083 time: 0m 30s
+train accuracy 99.6
+[35,   200] loss: 0.086 time: 0m 40s
+train accuracy 98.0
+Accuracy of the network on the 10000 test images: 77 %
+[36,    50] loss: 0.075 time: 0m 10s
+train accuracy 98.4
+[36,   100] loss: 0.075 time: 0m 20s
+train accuracy 98.8
+[36,   150] loss: 0.077 time: 0m 30s
+train accuracy 98.0
+[36,   200] loss: 0.078 time: 0m 40s
+train accuracy 98.0
+Accuracy of the network on the 10000 test images: 77 %
+[37,    50] loss: 0.067 time: 0m 10s
+train accuracy 98.0
+[37,   100] loss: 0.070 time: 0m 20s
+train accuracy 99.6
+[37,   150] loss: 0.071 time: 0m 30s
+train accuracy 98.4
+[37,   200] loss: 0.072 time: 0m 40s
+train accuracy 98.0
+Accuracy of the network on the 10000 test images: 77 %
+[38,    50] loss: 0.063 time: 0m 10s
+train accuracy 100.0
+[38,   100] loss: 0.062 time: 0m 20s
+train accuracy 98.0
+[38,   150] loss: 0.063 time: 0m 30s
+train accuracy 99.2
+[38,   200] loss: 0.065 time: 0m 40s
+train accuracy 98.4
+Accuracy of the network on the 10000 test images: 77 %
+[39,    50] loss: 0.057 time: 0m 10s
+train accuracy 99.6
+[39,   100] loss: 0.059 time: 0m 20s
+train accuracy 98.8
