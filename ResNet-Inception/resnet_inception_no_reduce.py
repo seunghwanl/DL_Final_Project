@@ -1,8 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
@@ -14,13 +10,7 @@ import numpy as np
 import tensorflow as tf
 import time
 
-
-# In[2]:
-
 N_DIGITS = 10  # Number of classes.
-
-
-# In[3]:
 
 def resnet_model_fn(features, labels, mode): 
     
@@ -154,18 +144,12 @@ def resnet_model_fn(features, labels, mode):
        
         return tf.estimator.EstimatorSpec(mode, loss=loss, eval_metric_ops=eval_metric_ops)
 
-
-# In[4]:
-
 (X_train, y_train), (X_test, y_test) = tf.contrib.keras.datasets.cifar10.load_data()
 
 X_train = np.asarray(X_train, dtype=np.float32)
 y_train = np.asarray(y_train, dtype=np.int32).squeeze()
 X_test = np.asarray(X_test, dtype=np.float32)
 y_test = np.asarray(y_test, dtype=np.int32).squeeze()
-
-
-# In[6]:
 
 classifier = tf.estimator.Estimator(model_fn=resnet_model_fn, model_dir="/Users/snehanagaraj/Documents/DL/Project/Model_diff_filters", config=tf.estimator.RunConfig())
 
@@ -190,9 +174,3 @@ test_input_fn = tf.estimator.inputs.numpy_input_fn(
 scores = classifier.evaluate(input_fn=test_input_fn)
 print('Accuracy: {0:f}'.format(scores['accuracy']))
 print(time.time() - start_time)
-
-
-# In[ ]:
-
-
-
